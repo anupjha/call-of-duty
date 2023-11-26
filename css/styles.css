@@ -25,7 +25,7 @@
 body.light {
   --img-bg: url("../assets/images/bg-desktop-light.jpg");
   --clr-primary: hsl(243, 12%, 30%);
-  --clr-page-bg: #fef08a;
+  --clr-page-bg: #a1a1aa;
   --clr-card-bg: hsl(0, 0%, 100%);
   --clr-gb-1: hsl(240, 8%, 24%);
   --clr-gb-2: hsl(243, 12%, 30%);

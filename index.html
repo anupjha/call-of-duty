@@ -15,7 +15,14 @@
   </head>
   <body>
     <header class="card">
-      <h1>ToDo 🦉</h1>
+      <h1>
+        ToDo 🦉
+        <span style="font-size: 8pt; float: center">
+          <script>
+            document.write(new Date().toLocaleDateString());
+          </script>
+        </span>
+      </h1>
       <button id="theme-switcher">
         <img src="./assets/images/icon-sun.svg" alt="Change color theme" />
       </button>
